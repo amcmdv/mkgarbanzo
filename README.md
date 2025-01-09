@@ -8,12 +8,12 @@ This project was inspired by a simple JavaScript snippet that dynamically create
 
 The foundation of this project lies in the following JavaScript code:
 
-javascript
+'''javascript
 var recalledMemory = [];
 for (var b = 0; b < 2; b++) {
     recalledMemory['memoryId' + b] = b;
 }
-
+'''
 ---
 
 This repository simulates **operant conditioning** using associative arrays and memory management techniques. The project models the formation of associations between a conditioned stimulus (CS) and an unconditioned stimulus (US) through reinforcement and decay.
