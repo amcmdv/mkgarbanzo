@@ -8,12 +8,12 @@ This project was inspired by a simple JavaScript snippet that dynamically create
 
 The foundation of this project lies in the following JavaScript code:
 
+
 ![image](https://github.com/user-attachments/assets/11383733-afe1-48cd-819b-00f39a08810f)
 
 
----
-
 Uses:
+
 1.	Associative Array Creation:
 The code essentially creates an associative array (also known as a dictionary or object in JavaScript) that maps string keys (memoryId0, memoryId1) to their corresponding index values.
 2.	Storing Indexed Data:
