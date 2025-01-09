@@ -14,13 +14,13 @@ The foundation of this project lies in the following JavaScript code:
 ---
 
 Uses:
-	1.	Associative Array Creation:
+1.	Associative Array Creation:
 The code essentially creates an associative array (also known as a dictionary or object in JavaScript) that maps string keys (memoryId0, memoryId1) to their corresponding index values.
-	2.	Storing Indexed Data:
+2.	Storing Indexed Data:
 This structure can be useful for storing data that is indexed by a string identifier rather than a numerical index. For example, if you are recalling specific memory slots in a program and you want to track which memory slots have been accessed.
-	3.	Dynamic Property Assignment:
+3.	Dynamic Property Assignment:
 You might use this pattern when you need to dynamically assign properties to an object based on looping conditions, such as generating a list of items or identifiers on the fly.
-	4.	Memory Management Simulation:
+4.	Memory Management Simulation:
 The code could be part of a larger system that manages memory (or other resources) in a simulation or game, where each memoryId represents a unique memory slot or resource identifier.
 
 ---
