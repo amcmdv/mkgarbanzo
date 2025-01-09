@@ -1,6 +1,23 @@
 # Operant Conditioning Simulator with Associative Arrays
 
+## 🧠 Origin: The `recalledMemory` Example
+
+This project was inspired by a simple JavaScript snippet that dynamically creates an associative array. The concept was expanded to simulate **operant conditioning**, a behavourial psychology model where associations between stimuli and responses are learned and reinforced over time.
+
+---
+
+The foundation of this project lies in the following JavaScript code:
+
+```javascript
+var recalledMemory = [];
+for (var b = 0; b < 2; b++) {
+    recalledMemory['memoryId' + b] = b;
+}
+
+---
+
 This repository simulates **operant conditioning** using associative arrays and memory management techniques. The project models the formation of associations between a conditioned stimulus (CS) and an unconditioned stimulus (US) through reinforcement and decay.
+
 
 ## Features
 
