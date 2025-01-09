@@ -8,11 +8,8 @@ This project was inspired by a simple JavaScript snippet that dynamically create
 
 The foundation of this project lies in the following JavaScript code:
 
-'''javascript
-var recalledMemory = [];
-for (var b = 0; b < 2; b++) {
-    recalledMemory['memoryId' + b] = b;
-}
+![image](https://github.com/user-attachments/assets/11383733-afe1-48cd-819b-00f39a08810f)
+
 
 ---
 
